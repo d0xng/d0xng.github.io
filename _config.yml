@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: l0n3 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Hacking has become my life.# it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,15 +26,15 @@ description: >- # used by seo meta and the atom feed
 url: "https://l0n3.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: l0n3CTF # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: LetoileFede # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: l0n3
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -42,7 +42,7 @@ social:
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/federicoletoile
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/112094126?s=400&u=67ab409e27326055aaab3fd48db195f97c9053e3&v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
