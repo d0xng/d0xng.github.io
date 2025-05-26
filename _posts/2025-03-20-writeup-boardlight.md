@@ -6,6 +6,9 @@ categories: [Writeup, HTB]
 tags: [Linux, CTF, Easy, Dolibarr 17.0.0 exploitation]
 ---
 
+![image](https://github.com/user-attachments/assets/dd6c7912-885e-472c-8d95-5578b48f6380)
+
+
 ```bash
 # Nmap 7.95 scan initiated Sun Mar 23 09:38:14 2025 as: /usr/lib/nmap/nmap --privileged -p- --open -sS --min-rate 5000 -n -vvv -Pn -oG ports 10.10.11.11
 # Ports scanned: TCP(65535;1-65535) UDP(0;) SCTP(0;) PROTOCOLS(0;)
