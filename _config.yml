@@ -14,19 +14,19 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: l0n3 # the main title
+title: d0x # the main title
 
-tagline: Hacking has become my life | CTF player | Security Researcher | ekogroup leader
+tagline: Hacking has become my life | CTF player | Security Researcher | Ekogroup leader
 
 description: >- # used by seo meta and the atom feed
-  I am l0n3 a security researcher and a hacker.
+  I am d0x a security researcher and a hacker.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://l0n3.github.io"
+url: "https://d0xng.github.io"
 
 github:
-  username: "l0n3f" # change to your GitHub username
+  username: "d0xng" # change to your GitHub username
 
 twitter:
   username: "LetoileFede" # change to your Twitter username
@@ -35,7 +35,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: l0n3
+  name: d0x
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
