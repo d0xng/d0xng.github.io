@@ -1,6 +1,6 @@
 ---
 title: Love Writeup
-author: l0n3
+author: d0x
 date: 2025-04-21
 categories: [Writeup, HTB]
 tags: [Linux, CTF, Easy, openssl, SSRF, internal port discovery, metasploit]
