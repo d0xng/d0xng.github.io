@@ -3,13 +3,13 @@
 icon: fas fa-bug
 order: 4
 ---
-I'm Federico Letoile as known as l0n3, i'm a system analyst, i work as a devops and app security, I spend my free time finding bugs and doing security research. I'm an active participant in CTFs like Hack The Box and TryHackMe. I believe they train you to think in a completely different way when it comes to finding web vulnerabilities.
+I'm Federico Letoile as known as d0x, i'm a system analyst, i work as a devops and app security, I spend my free time finding bugs and doing security research. I'm an active participant in CTFs. I believe they train you to think in a completely different way when it comes to finding web vulnerabilities.
 
 ### Certifications
 
 | Certificación                       | Entity       | Status        |
 | ----------------------------------- | ------------ | :-----------: |
-| BSCP                                | Portswigger  | Pursuing 🟡  |
+| CPTS                                | Hackthebox  | Pursuing 🟡  |
 
 ### Volunteering
 
@@ -18,6 +18,11 @@ I'm Federico Letoile as known as l0n3, i'm a system analyst, i work as a devops 
 | Ekogroup                       | Leader and member  | organizing events, hacking talks, and doing CTF challenges as a team |
 
 ### Work experience
+
+- **Penetration Test Engagement (2025)**
+  - Performed a full-scope security audit for a company, uncovering critical, medium, and low-severity vulnerabilities affecting both infrastructure and applications.  
+  - Produced a detailed report with risk classification, technical evidence, and prioritized remediation recommendations.  
+  - Presented findings to stakeholders and provided technical support to assist in the remediation process.  
 
 - **Devops and app security**
   - Automated deployment pipeline creation and management
@@ -32,12 +37,16 @@ I'm Federico Letoile as known as l0n3, i'm a system analyst, i work as a devops 
   - Security audit of logins with weak passwords.
   - Scanning for open ports and identifying versions of active services.
   - Comprehensive reporting of all identified vulnerabilities
+
+### Reported Security Findings  
+- Reported SQL Injection (SQLi) and Cross-Site Scripting (XSS) vulnerabilities in Argentinian government websites.  
+- Disclosed a security vulnerability to the Australian Government.  
+- Reported a vulnerability in an educational system platform in the United States.  
  
 ### Tech stack
 
 - Bash
 - Python
-- C++
 - SQL
 - Docker
 - Monitoring
