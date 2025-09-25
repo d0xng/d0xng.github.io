@@ -1,6 +1,6 @@
 ---
 title: Web Cache Deception & Web Cache Poisoning
-author: l0n3
+author: d0x
 date: 2025-05-31
 categories: [Vulnerabilities, Notes]
 tags: [Web Cache Vulnerabilities]
