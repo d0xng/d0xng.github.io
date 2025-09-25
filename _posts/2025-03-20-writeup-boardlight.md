@@ -1,6 +1,6 @@
 ---
 title: Boardlight Writeup
-author: l0n3
+author: d0x
 date: 2025-03-23
 categories: [Writeup, HTB]
 tags: [Linux, CTF, Easy, Dolibarr 17.0.0 exploitation]
