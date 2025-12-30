@@ -16,10 +16,10 @@ timezone:
 
 title: d0x # the main title
 
-tagline: Hacking has become my life | CTF player | Security Researcher | Ekogroup leader
+tagline: Security Researcher | Bug Bounty Hunter | Breaking stuff for fun
 
 description: >- # used by seo meta and the atom feed
-  I am d0x a security researcher and a hacker.
+  I am d0x, a security researcher and bug bounty hunter.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
